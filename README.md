@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/manii1-sh/ManishPardhi75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/manii1-sh/ManishPardhi75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manii1-sh/ManishPardhi75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/manii1-sh/ManishPardhi75DaysLeetCodeChallenge/tree/master/1800-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
